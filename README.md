@@ -7,7 +7,7 @@ Software Developer Portfolio that helps showcase work and skills as a software d
 
 
 
-## To view a live demo,[Click Here](https://jakansha2001.github.io).
+## To view a live demo,[Click Here](https://chhibber02.github.io).
 
 
 
