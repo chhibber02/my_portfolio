@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:potrtfolio/Widget/Workbox.dart';
+import 'Workbox.dart';
 
 class MobileWork extends StatefulWidget {
   @override

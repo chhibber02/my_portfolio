@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:potrtfolio/Model/Method.dart';
-import 'package:potrtfolio/UI/About.dart';
-import 'package:potrtfolio/UI/Work.dart';
-import 'package:potrtfolio/Widget/AppBarTitle.dart';
-import 'package:potrtfolio/Widget/CustomText.dart';
 import 'package:scroll_to_index/scroll_to_index.dart';
+import '../Model/Method.dart';
+import '../Widget/AppBarTitle.dart';
+import '../Widget/CustomText.dart';
+import 'About.dart';
+import 'Work.dart';
 
 class HomePage extends StatefulWidget {
   @override

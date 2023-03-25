@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:potrtfolio/UI/Home.dart';
 import 'package:url_strategy/url_strategy.dart';
+import 'UI/Home.dart';
 
 void main() {
   setPathUrlStrategy();

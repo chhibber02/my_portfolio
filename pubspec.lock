@@ -85,10 +85,10 @@ packages:
     dependency: "direct main"
     description:
       name: font_awesome_flutter
-      sha256: "0d8a9428ee0b7c427151308e18899bfe38725e68e329149c947696b944846dc3"
+      sha256: "444af62d91e753b1e221d9f3e2f8df48a995962f33bef77773059cec4dac2c47"
       url: "https://pub.dev"
     source: hosted
-    version: "8.8.1"
+    version: "8.12.0"
   js:
     dependency: transitive
     description:
@@ -129,30 +129,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.2"
-  platform_detect:
-    dependency: transitive
-    description:
-      name: platform_detect
-      sha256: aab1dd0e19af823c0bbfc2d0f364e33abc52bd13be27711fea98bade0fe35213
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.4.0"
   plugin_platform_interface:
     dependency: transitive
     description:
       name: plugin_platform_interface
-      sha256: "3c3d17d0012f7388b8beb79a4517cd2f25b66aa09f9f99f9adcaada6ea6f46f1"
+      sha256: c3ebbff365bfb1b5f7b690c9857d2dabea167f35b05eb7586186499b407efb37
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.2"
-  pub_semver:
-    dependency: transitive
-    description:
-      name: pub_semver
-      sha256: "3c51ec0aaeccb85cacfe824816c60e1e3c53da586c64e1166422a906a4f7251c"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.4.4"
+    version: "1.0.3"
   scroll_to_index:
     dependency: "direct main"
     description:
@@ -226,50 +210,50 @@ packages:
     dependency: "direct main"
     description:
       name: url_launcher
-      sha256: "597d1c07ed5249398079e2eebf3ac29507a99fc614f0170b73b1d8fd4e2c289b"
+      sha256: e1e0c46fcd777c0f0bd7f4541b747c28ad4e925f93344cebf667ef76c695533a
       url: "https://pub.dev"
     source: hosted
-    version: "5.6.0"
+    version: "5.7.10"
   url_launcher_linux:
     dependency: transitive
     description:
       name: url_launcher_linux
-      sha256: e9291e8d1df9500c088bc35ee2bbaf8e76da005b696783195e5a0d163408b8f5
+      sha256: c489023cdd864a19c0be63bb3796bec21ea4bc16bfe09568953f1828e02151c9
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1+1"
+    version: "0.0.1+4"
   url_launcher_macos:
     dependency: transitive
     description:
       name: url_launcher_macos
-      sha256: "503dc6fe02dedf0a5b4763a4a45dd3a17a3c201145494d2018a956aa9b899116"
+      sha256: be04eac5076414469027ce068c360478c3e56e43205bb7efaaa61cbdd3ba890d
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1+8"
+    version: "0.0.1+9"
   url_launcher_platform_interface:
     dependency: transitive
     description:
       name: url_launcher_platform_interface
-      sha256: "97fc9bb532d0e8de43a7d87aae6594c30667b2addd15245428cde20313ef6370"
+      sha256: c6bd00f46e8c348703d0ae691850eb2052be8e1338dc3ae6f72af53b962da157
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.8"
+    version: "1.0.9"
   url_launcher_web:
     dependency: transitive
     description:
       name: url_launcher_web
-      sha256: "8d7b48ca3322a956c431c37c39ec57ce5ec914c52ff5caec3ebaf7198973016d"
+      sha256: eaa6de8ac353681794533edcedd69dd8b39ed987bf2360d172185eff8283dbc2
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.3+2"
+    version: "0.1.5+3"
   url_launcher_windows:
     dependency: transitive
     description:
       name: url_launcher_windows
-      sha256: "8960ba7e04a97bb9e5a350f8c92de4fd386cde688c2970bd4dcc4c55a85a4fc2"
+      sha256: "034479b1dafd8f01de81267d8117eb5ae019e0dddcc23f4b14ed31253a2635d9"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1+1"
+    version: "0.0.1+3"
   url_strategy:
     dependency: "direct main"
     description:
@@ -288,4 +272,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=2.18.0 <3.0.0"
-  flutter: ">=1.20.0"
+  flutter: ">=1.22.0"
